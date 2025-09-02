@@ -23,3 +23,6 @@ Pydantic
 # Document loaders
 langchain_community
 beautifulsoup4
+
+#splitter
+langchain_experimental
