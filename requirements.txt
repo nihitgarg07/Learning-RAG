@@ -26,3 +26,10 @@ beautifulsoup4
 
 #splitter
 langchain_experimental
+
+#vectordb
+chromadb
+openai
+tiktoken
+pypdf
+langchain_community
